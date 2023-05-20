@@ -42,3 +42,11 @@ Screenshots:
 ![Screenshot 2023-05-20 192842](https://github.com/SPalahanov/RockPaperScissorsBySPalahanov/assets/133794658/6006fbfb-ec66-4f69-91dc-98c19d1db182)
 ![Screenshot 2023-05-20 192903](https://github.com/SPalahanov/RockPaperScissorsBySPalahanov/assets/133794658/06ccfbaf-6288-461c-8965-12177beed561)
 ![Screenshot 2023-05-20 192959](https://github.com/SPalahanov/RockPaperScissorsBySPalahanov/assets/133794658/a3576b32-ec25-4bf1-b852-c653b88d3f70)
+
+
+Live Demo
+
+Now you canplay the gam directly in your Web browser here:
+https://replit.com/@SPalahanov/RockPaperScissors-Game-by-Slavcho#RockPaperScissors-Game-by-Slavcho.cs
+![image](https://github.com/SPalahanov/RockPaperScissorsBySPalahanov/assets/133794658/fdd178e5-56fa-43fa-9f5d-5d4417717af9)
+
