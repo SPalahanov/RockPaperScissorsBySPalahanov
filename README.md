@@ -10,6 +10,7 @@ Input:
    - "rock" or "r"
    - "paper" or "p"
    - "scissors" or "s"
+
 Output:
    - The computer chooses a random option, then reveals the winner.
 
