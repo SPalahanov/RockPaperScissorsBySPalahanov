@@ -10,7 +10,7 @@
 
             bool keepPlaying = true;
 
-            
+
 
             while (keepPlaying)
             {
@@ -99,7 +99,7 @@
                             Console.WriteLine();
                         }
                     }
-                    
+
                 }
 
                 Console.WriteLine();
